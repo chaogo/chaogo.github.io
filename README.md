@@ -1,3 +1,3 @@
-# Welcome to personal website
+# Welcome to my personal website
 
 https://chaogo.github.io/
